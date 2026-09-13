@@ -17,10 +17,10 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: {
-    template: "%s - Logistics Revels 26",
-    default: "Logistics - Revels 2026",
+    template: "%s - Logistics TechTatva 26",
+    default: "Logistics - TechTatva 2026",
   },
-  description: "Logistics Management System for Revels 2026",
+  description: "Logistics Management System for TechTatva 2026",
 };
 
 async function getUser() {

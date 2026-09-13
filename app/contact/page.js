@@ -86,11 +86,11 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg">Email Us</h3>
-                  <p className="text-muted-foreground">logistics.revels26@gmail.com</p>
+                  <p className="text-muted-foreground">placeholder@gmail.com</p>
                 </div>
               </div>
               <Button asChild className="w-full sm:w-auto">
-                <a href="mailto:logistics.revels26@gmail.com">
+                <a href="mailto:placeholder@gmail.com">
                   Send Email
                 </a>
               </Button>

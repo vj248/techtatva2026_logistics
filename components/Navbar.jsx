@@ -153,7 +153,7 @@ export default function Navbar({ user }) {
               <SheetHeader>
                 <SheetTitle className="text-left">
                   <Link href={dashboardLink} onClick={() => handleNavClick(dashboardLink)}>
-                    Logistics Revels
+                    Logistics TechTatva
                   </Link>
                 </SheetTitle>
                 <SheetDescription className="sr-only">
@@ -188,13 +188,13 @@ export default function Navbar({ user }) {
 
         {/* Mobile Logo */}
         <div className="lg:hidden font-bold text-lg mr-auto">
-           <Link href={dashboardLink} onClick={() => handleNavClick(dashboardLink)}>Logistics Revels</Link>
+           <Link href={dashboardLink} onClick={() => handleNavClick(dashboardLink)}>Logistics TechTatva</Link>
         </div>
 
         {/* Desktop Logo */}
         <div className="mr-4 hidden lg:flex">
           <Link href={dashboardLink} onClick={() => handleNavClick(dashboardLink)} className="mr-6 flex items-center space-x-2 font-bold text-xl">
-            Logistics Revels
+            Logistics TechTatva
           </Link>
           <nav className="flex items-center space-x-6 text-sm font-medium">
             {navLinks.map((link) => (
