@@ -59,7 +59,7 @@ export default function ContactPage() {
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <ContactCard name="Tirtham Bafna" phone="6969696969" role="CC, Logistics" />
+              <ContactCard name="Vidhi Jajoo" phone="9330911355" role="CC, Logistics" />
             </CardContent>
           </Card>
 
