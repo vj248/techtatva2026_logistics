@@ -59,7 +59,7 @@ export default function ContactPage() {
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <ContactCard name="Akash Shaw" phone="8274076737" role="CC, Logistics" />
+              <ContactCard name="Tirtham Bafna" phone="6969696969" role="CC, Logistics" />
             </CardContent>
           </Card>
 
@@ -72,8 +72,8 @@ export default function ContactPage() {
               </div>
             </CardHeader>
             <CardContent className="grid gap-4">
-              <ContactCard name="Divya Battu" phone="7013106669" role="CC, Logistics" />
-              <ContactCard name="Nishant Bhandari" phone="9789879670" role="CC, Logistics" />
+              <ContactCard name="Shreyansh Giri" phone="6969696969" role="CC, Logistics" />
+              <ContactCard name="Dev Parida" phone="7978436457" role="CC, Logistics" />
             </CardContent>
           </Card>
 
